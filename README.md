@@ -4,12 +4,12 @@ I am a BBA Student, Full-Stack vibe Developer, Cybersecurity Researcher, and the
 
 🚀 **What I'm Working On:**
 *   Building **Azentra**, India's first pay-per-visit fitness wallet platform.
-*   Developing cross-platform mobile applications using React Native and Expo .
+*   Developing cross-platform mobile applications using React Native and Expo.
 *   Conducted independent vulnerability assessments, with 43 vulnerabilities identified and responsibly disclosed.
 
 🛠️ **Tech Stack & Tools:**
-*   **Development:** PHP, MySQL, fastAPI(python), HTML/CSS, React Native, Expo, WAMP,PostgreSQL, NGROK, Git .
-*   **Cybersecurity:** Kali-Linux/Parrot OS, Nmap, Nikto, SQLmap, ADB, CURL,  
+*   **Development:** PHP, MySQL, FastAPI (Python), HTML/CSS, React Native, Expo, WAMP, PostgreSQL, NGROK, Git.
+*   **Cybersecurity:** Kali-Linux/Parrot OS, Nmap, Nikto, SQLmap, ADB, CURL.  
 *   **Data Analytics:** Python (Pandas/NumPy/matplotlib/fastAPI), Advanced SQL, Excel, Power BI.
 *   **Productivity:** PowerPoint, Word, Canva, AI.
 📫 **Connect with me:**
