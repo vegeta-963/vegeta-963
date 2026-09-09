@@ -8,10 +8,10 @@ I am a BBA Student, Full-Stack vibe Developer, Cybersecurity Researcher, and the
 *   Conducted independent vulnerability assessments, with 43 vulnerabilities identified and responsibly disclosed.
 
 🛠️ **Tech Stack & Tools:**
-*   **Development:** PHP, MySQL, fastAPI(python), HTML/CSS, React Native, Expo, WAMP,postgresql, NGROK, Git .
-*   **Cybersecurity:** kali linux/Parrot OS, Nmap, Nikto, SQLmap, ADB, CURL,  
+*   **Development:** PHP, MySQL, fastAPI(python), HTML/CSS, React Native, Expo, WAMP,PostgreSQL, NGROK, Git .
+*   **Cybersecurity:** Kali-Linux/Parrot OS, Nmap, Nikto, SQLmap, ADB, CURL,  
 *   **Data Analytics:** Python (Pandas/NumPy/matplotlib/fastAPI), Advanced SQL, Excel, Power BI.
-*   **Productictivity:** power-point, word, canva, AI.
+*   **Productivity:** PowerPoint, Word, Canva, AI.
 📫 **Connect with me:**
 *   LinkedIn: [Prashant Solanki](https://linkedin.com/in/prashant-singh-805962313)
   
